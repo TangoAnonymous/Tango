@@ -10,7 +10,7 @@ We believe that this project can serve as a valuable resource and inspiration fo
 
 
 ## Environment config
-- Ubuntu 18.04 with Linux kernel v5.3.0-28
+- Ubuntu 20.04.3 LTS with Linux kernel v5.3.0-28
 - python-K8sclient (Python 3.8)
 - K8s-v1.21.0
 - Pytorch 1.11.0
